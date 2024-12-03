@@ -30,6 +30,6 @@
     <img src="https://www.r-project.org/logo/Rlogo.png" alt="r" width="40" height="40"/>
   </a>
   <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://groovy-lang.org/images/groovy-logo-medium.png" alt="groovy" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" alt="groovy" width="40" height="40"/>
   </a>
 </p>
